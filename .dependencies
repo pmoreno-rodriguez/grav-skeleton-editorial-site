@@ -1,0 +1,130 @@
+git:
+  archives:
+    url: https://github.com/getgrav/grav-plugin-archives
+    path: user/plugins/archives
+    branch: master
+  breadcrumbs:
+    url: https://github.com/getgrav/grav-plugin-breadcrumbs
+    path: user/plugins/breadcrumbs
+    branch: master
+  error:
+    url: https://github.com/getgrav/grav-plugin-error
+    path: user/plugins/error
+    branch: master
+  feed:
+    url: https://github.com/getgrav/grav-plugin-feed
+    path: user/plugins/feed
+    branch: master
+  langswitcher:
+    url: https://github.com/getgrav/grav-plugin-langswitcher
+    path: user/plugins/langswitcher
+    branch: master
+  pagination:
+    url: https://github.com/getgrav/grav-plugin-pagination
+    path: user/plugins/pagination
+    branch: master
+  problems:
+    url: https://github.com/getgrav/grav-plugin-problems
+    path: user/plugins/problems
+    branch: master
+  random:
+    url: https://github.com/getgrav/grav-plugin-random
+    path: user/plugins/random
+    branch: master
+  readingtime:
+    url: https://github.com/getgrav/grav-plugin-readingtime
+    path: user/plugins/readingtime
+    branch: master
+  relatedpages:
+    url: https://github.com/getgrav/grav-plugin-relatedpages
+    path: user/plugins/relatedpages
+    branch: master
+  shortcode-core:
+    url: https://github.com/getgrav/grav-plugin-shortcode-core
+    path: user/plugins/shortcode-core
+    branch: master
+  simplesearch:
+    url: https://github.com/getgrav/grav-plugin-simplesearch
+    path: user/plugins/simplesearch
+    branch: master
+  taxonomylist:
+    url: https://github.com/getgrav/grav-plugin-taxonomylist
+    path: user/plugins/taxonomylist
+    branch: master
+  translate-date:
+    url: https://github.com/Karmalakas/grav-plugin-translate-date
+    path: user/plugins/translate-date
+    branch: main
+  twig-extensions:
+    url: https://github.com/bitstarr/grav-plugin-twig-extensions
+    path: user/plugins/twig-extensions
+    branch: main
+  editorial:
+    url: https://github.com/pmoreno-rodriguez/grav-theme-editorial
+    path: user/themes/editorial
+    branch: develop
+links:
+  archives:
+    src: grav-plugin-archives
+    path: user/plugins/archives
+    scm: github
+  breadcrumbs:
+    src: grav-plugin-breadcrumbs
+    path: user/plugins/breadcrumbs
+    scm: github
+  error:
+    src: grav-plugin-error
+    path: user/plugins/error
+    scm: github
+  feed:
+    src: grav-plugin-feed
+    path: user/plugins/feed
+    scm: github
+  langswitcher:
+    src: grav-plugin-langswitcher
+    path: user/plugins/langswitcher
+    scm: github
+  pagination:
+    src: grav-plugin-pagination
+    path: user/plugins/pagination
+    scm: github
+  problems:
+    src: grav-plugin-problems
+    path: user/plugins/problems
+    scm: github
+  random:
+    src: grav-plugin-random
+    path: user/plugins/random
+    scm: github
+  readingtime:
+    src: grav-plugin-readingtime
+    path: user/plugins/readingtime
+    scm: github
+  relatedpages:
+    src: grav-plugin-relatedpages
+    path: user/plugins/relatedpages
+    scm: github
+  shortcode-core:
+    src: grav-plugin-shortcode-core
+    path: user/plugins/shortcode-core
+    scm: github
+  simplesearch:
+    src: grav-plugin-simplesearch
+    path: user/plugins/simplesearch
+    scm: github
+  taxonomylist:
+    src: grav-plugin-taxonomylist
+    path: user/plugins/taxonomylist
+    scm: github
+  translate-date:
+    src: grav-plugin-translate-date
+    path: user/plugins/translate-date
+    scm: github
+  twig-extensions:
+    src: grav-plugin-twig-extensions
+    path: user/plugins/twig-extensions
+    scm: github
+  editorial:
+    src: grav-theme-editorial
+    path: user/themes/editorial
+    scm: github

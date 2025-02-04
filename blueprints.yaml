@@ -1,0 +1,14 @@
+name: Editorial Site
+version: 1.0.0
+description: "The **Editorial Skeleton** based on Editorial theme that provides you with sample blog content and plugins including: **Archives**, **Random**, **Readingtime**, **Related Pages**, **Pagination**, **Breadcrumbs**, **Taxonomy List** and more."
+icon: comments
+author:
+  name: Pedro Moreno
+  email: pmoreno@pmdesign.dev
+  url: https://pmdesign.dev
+homepage: https://github.com/pmoreno-rodriguez/grav-skeleton-editorial-site
+demo: https://editorial.pmdesign.dev/
+keywords: blog, editorial, skeleton, readingtime, random, pagination, breadcrumbs, taxonomy, archives, relatedpages
+bugs: https://github.com/pmoreno-rodriguez/grav-skeleton-editorial-site/issues
+readme: https://github.com/pmoreno-rodriguez/grav-skeleton-editorial-site/blob/main/README.md
+license: MIT
