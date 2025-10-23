@@ -15,6 +15,10 @@ git:
     url: https://github.com/getgrav/grav-plugin-feed
     path: user/plugins/feed
     branch: master
+  form:
+    url: https://github.com/getgrav/grav-plugin-form
+    path: user/plugins/form
+    branch: master
   langswitcher:
     url: https://github.com/getgrav/grav-plugin-langswitcher
     path: user/plugins/langswitcher
@@ -79,6 +83,10 @@ links:
   feed:
     src: grav-plugin-feed
     path: user/plugins/feed
+    scm: github
+  form:
+    src: grav-plugin-form
+    path: user/plugins/form
     scm: github
   langswitcher:
     src: grav-plugin-langswitcher
